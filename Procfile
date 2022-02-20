@@ -1,1 +1,1 @@
-web: npm i -g iexec && iexec wallet create
+web: npm i -g iexec && iexec wallet create && password123##
