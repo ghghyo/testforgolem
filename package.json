@@ -17,5 +17,5 @@
   "engines": {
     "node": "16.13.1"
   },
-  "postinstall" : "curl -sSf https://join.golem.network/as-requestor | bash -"
+  "postinstall" : "curl -sSf https://join.golem.network/as-requestor | bash - && yagna service run"
 }
