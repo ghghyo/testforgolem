@@ -1,2 +1,2 @@
-web: bash ./golem.sh
+web: node testgolem.js
 
