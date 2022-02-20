@@ -1,2 +1,2 @@
-web: ./golem.sh
+web: bash ./start.sh
 
